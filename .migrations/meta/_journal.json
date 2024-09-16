@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1726072769978,
+      "tag": "0000_outgoing_randall_flagg",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1726074331828,
+      "tag": "0001_many_dazzler",
+      "breakpoints": true
+    }
+  ]
+}
